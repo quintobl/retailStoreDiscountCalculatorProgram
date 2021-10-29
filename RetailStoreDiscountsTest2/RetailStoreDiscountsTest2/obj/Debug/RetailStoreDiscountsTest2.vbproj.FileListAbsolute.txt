@@ -1,0 +1,12 @@
+C:\VBNet\RetailStoreDiscountsTest2\RetailStoreDiscountsTest2\bin\Debug\RetailStoreDiscountsTest2.exe.config
+C:\VBNet\RetailStoreDiscountsTest2\RetailStoreDiscountsTest2\bin\Debug\RetailStoreDiscountsTest2.exe
+C:\VBNet\RetailStoreDiscountsTest2\RetailStoreDiscountsTest2\bin\Debug\RetailStoreDiscountsTest2.pdb
+C:\VBNet\RetailStoreDiscountsTest2\RetailStoreDiscountsTest2\bin\Debug\RetailStoreDiscountsTest2.xml
+C:\VBNet\RetailStoreDiscountsTest2\RetailStoreDiscountsTest2\obj\Debug\RetailStoreDiscountsTest2.vbprojAssemblyReference.cache
+C:\VBNet\RetailStoreDiscountsTest2\RetailStoreDiscountsTest2\obj\Debug\RetailStoreDiscountsTest2.Form1.resources
+C:\VBNet\RetailStoreDiscountsTest2\RetailStoreDiscountsTest2\obj\Debug\RetailStoreDiscountsTest2.Resources.resources
+C:\VBNet\RetailStoreDiscountsTest2\RetailStoreDiscountsTest2\obj\Debug\RetailStoreDiscountsTest2.vbproj.GenerateResource.cache
+C:\VBNet\RetailStoreDiscountsTest2\RetailStoreDiscountsTest2\obj\Debug\RetailStoreDiscountsTest2.vbproj.CoreCompileInputs.cache
+C:\VBNet\RetailStoreDiscountsTest2\RetailStoreDiscountsTest2\obj\Debug\RetailStoreDiscountsTest2.exe
+C:\VBNet\RetailStoreDiscountsTest2\RetailStoreDiscountsTest2\obj\Debug\RetailStoreDiscountsTest2.xml
+C:\VBNet\RetailStoreDiscountsTest2\RetailStoreDiscountsTest2\obj\Debug\RetailStoreDiscountsTest2.pdb
